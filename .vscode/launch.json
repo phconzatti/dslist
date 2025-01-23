@@ -4,6 +4,13 @@
             "type": "java",
             "name": "DemoApplication",
             "request": "launch",
+            "mainClass": "com.dslist.DemoApplication",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "DemoApplication",
+            "request": "launch",
             "mainClass": "com.DemoApplication",
             "projectName": "demo"
         },
